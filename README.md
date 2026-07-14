@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashp3057/leetcode-problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/yashp3057/leetcode-problem/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/yashp3057/leetcode-problem/tree/master/0189-rotate-array) |
+| [0721-accounts-merge](https://github.com/yashp3057/leetcode-problem/tree/master/0721-accounts-merge) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/yashp3057/leetcode-problem/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/yashp3057/leetcode-problem/tree/master/1631-path-with-minimum-effort) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/yashp3057/leetcode-problem/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/yashp3057/leetcode-problem/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/yashp3057/leetcode-problem/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/yashp3057/leetcode-problem/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/yashp3057/leetcode-problem/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/yashp3057/leetcode-problem/tree/master/0169-majority-element) |
+| [0721-accounts-merge](https://github.com/yashp3057/leetcode-problem/tree/master/0721-accounts-merge) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/yashp3057/leetcode-problem/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
 |  |
@@ -41,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/yashp3057/leetcode-problem/tree/master/0721-accounts-merge) |
 | [1631-path-with-minimum-effort](https://github.com/yashp3057/leetcode-problem/tree/master/1631-path-with-minimum-effort) |
 | [2685-count-the-number-of-complete-components](https://github.com/yashp3057/leetcode-problem/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/yashp3057/leetcode-problem/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -57,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/yashp3057/leetcode-problem/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/yashp3057/leetcode-problem/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/yashp3057/leetcode-problem/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/yashp3057/leetcode-problem/tree/master/1631-path-with-minimum-effort) |
@@ -106,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/yashp3057/leetcode-problem/tree/master/0169-majority-element) |
+| [0721-accounts-merge](https://github.com/yashp3057/leetcode-problem/tree/master/0721-accounts-merge) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/yashp3057/leetcode-problem/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
 |  |
@@ -123,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/yashp3057/leetcode-problem/tree/master/1291-sequential-digits) |
+## String
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/yashp3057/leetcode-problem/tree/master/0721-accounts-merge) |
 <!---LeetCode Topics End-->
