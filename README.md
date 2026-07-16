@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashp3057/leetcode-problem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/yashp3057/leetcode-problem/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/yashp3057/leetcode-problem/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/yashp3057/leetcode-problem/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/yashp3057/leetcode-problem/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/yashp3057/leetcode-problem/tree/master/0380-insert-delete-getrandom-o1) |
 | [0721-accounts-merge](https://github.com/yashp3057/leetcode-problem/tree/master/0721-accounts-merge) |
@@ -191,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yashp3057/leetcode-problem/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/yashp3057/leetcode-problem/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
