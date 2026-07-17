@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/yashp3057/leetcode-problem/tree/master/0827-making-a-large-island) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/yashp3057/leetcode-problem/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/yashp3057/leetcode-problem/tree/master/1631-path-with-minimum-effort) |
+| [3312-sorted-gcd-pair-queries](https://github.com/yashp3057/leetcode-problem/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/yashp3057/leetcode-problem/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/yashp3057/leetcode-problem/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/yashp3057/leetcode-problem/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -48,11 +49,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/yashp3057/leetcode-problem/tree/master/0380-insert-delete-getrandom-o1) |
 | [0721-accounts-merge](https://github.com/yashp3057/leetcode-problem/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/yashp3057/leetcode-problem/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [3312-sorted-gcd-pair-queries](https://github.com/yashp3057/leetcode-problem/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/yashp3057/leetcode-problem/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/yashp3057/leetcode-problem/tree/master/1631-path-with-minimum-effort) |
+| [3312-sorted-gcd-pair-queries](https://github.com/yashp3057/leetcode-problem/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/yashp3057/leetcode-problem/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/yashp3057/leetcode-problem/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Union-Find
@@ -152,11 +155,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/yashp3057/leetcode-problem/tree/master/0169-majority-element) |
+| [3312-sorted-gcd-pair-queries](https://github.com/yashp3057/leetcode-problem/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/yashp3057/leetcode-problem/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/yashp3057/leetcode-problem/tree/master/0380-insert-delete-getrandom-o1) |
+| [3312-sorted-gcd-pair-queries](https://github.com/yashp3057/leetcode-problem/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/yashp3057/leetcode-problem/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yashp3057/leetcode-problem/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yashp3057/leetcode-problem/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -171,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/yashp3057/leetcode-problem/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/yashp3057/leetcode-problem/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yashp3057/leetcode-problem/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yashp3057/leetcode-problem/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -198,4 +204,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/yashp3057/leetcode-problem/tree/master/0238-product-of-array-except-self) |
+| [3312-sorted-gcd-pair-queries](https://github.com/yashp3057/leetcode-problem/tree/master/3312-sorted-gcd-pair-queries) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/yashp3057/leetcode-problem/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
