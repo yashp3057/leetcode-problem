@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/yashp3057/leetcode-problem/tree/master/0827-making-a-large-island) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/yashp3057/leetcode-problem/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/yashp3057/leetcode-problem/tree/master/1631-path-with-minimum-effort) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/yashp3057/leetcode-problem/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/yashp3057/leetcode-problem/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/yashp3057/leetcode-problem/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/yashp3057/leetcode-problem/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/yashp3057/leetcode-problem/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/yashp3057/leetcode-problem/tree/master/0380-insert-delete-getrandom-o1) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/yashp3057/leetcode-problem/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/yashp3057/leetcode-problem/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/yashp3057/leetcode-problem/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yashp3057/leetcode-problem/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/yashp3057/leetcode-problem/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/yashp3057/leetcode-problem/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/yashp3057/leetcode-problem/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yashp3057/leetcode-problem/tree/master/3658-gcd-of-odd-and-even-sums) |
