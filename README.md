@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/yashp3057/leetcode-problem/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/yashp3057/leetcode-problem/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/yashp3057/leetcode-problem/tree/master/0200-number-of-islands) |
+| [0229-majority-element-ii](https://github.com/yashp3057/leetcode-problem/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/yashp3057/leetcode-problem/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/yashp3057/leetcode-problem/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/yashp3057/leetcode-problem/tree/master/0380-insert-delete-getrandom-o1) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/yashp3057/leetcode-problem/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/yashp3057/leetcode-problem/tree/master/0229-majority-element-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/yashp3057/leetcode-problem/tree/master/0380-insert-delete-getrandom-o1) |
 | [0721-accounts-merge](https://github.com/yashp3057/leetcode-problem/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/yashp3057/leetcode-problem/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/yashp3057/leetcode-problem/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/yashp3057/leetcode-problem/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/yashp3057/leetcode-problem/tree/master/0274-h-index) |
 | [0721-accounts-merge](https://github.com/yashp3057/leetcode-problem/tree/master/0721-accounts-merge) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/yashp3057/leetcode-problem/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/yashp3057/leetcode-problem/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/yashp3057/leetcode-problem/tree/master/0229-majority-element-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/yashp3057/leetcode-problem/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
 |  |
