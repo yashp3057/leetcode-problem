@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/yashp3057/leetcode-problem/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashp3057/leetcode-problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yashp3057/leetcode-problem/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/yashp3057/leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/yashp3057/leetcode-problem/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yashp3057/leetcode-problem/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yashp3057/leetcode-problem/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/yashp3057/leetcode-problem/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashp3057/leetcode-problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yashp3057/leetcode-problem/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/yashp3057/leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/yashp3057/leetcode-problem/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yashp3057/leetcode-problem/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/yashp3057/leetcode-problem/tree/master/0189-rotate-array) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/yashp3057/leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/yashp3057/leetcode-problem/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yashp3057/leetcode-problem/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/yashp3057/leetcode-problem/tree/master/0085-maximal-rectangle) |
@@ -266,11 +269,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/yashp3057/leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/yashp3057/leetcode-problem/tree/master/0085-maximal-rectangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yashp3057/leetcode-problem/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/yashp3057/leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/yashp3057/leetcode-problem/tree/master/0085-maximal-rectangle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yashp3057/leetcode-problem/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Segment Tree
