@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/yashp3057/leetcode-problem/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/yashp3057/leetcode-problem/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/yashp3057/leetcode-problem/tree/master/0380-insert-delete-getrandom-o1) |
+| [0493-reverse-pairs](https://github.com/yashp3057/leetcode-problem/tree/master/0493-reverse-pairs) |
 | [0721-accounts-merge](https://github.com/yashp3057/leetcode-problem/tree/master/0721-accounts-merge) |
 | [0827-making-a-large-island](https://github.com/yashp3057/leetcode-problem/tree/master/0827-making-a-large-island) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/yashp3057/leetcode-problem/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/yashp3057/leetcode-problem/tree/master/0493-reverse-pairs) |
 | [1631-path-with-minimum-effort](https://github.com/yashp3057/leetcode-problem/tree/master/1631-path-with-minimum-effort) |
 | [3312-sorted-gcd-pair-queries](https://github.com/yashp3057/leetcode-problem/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/yashp3057/leetcode-problem/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/yashp3057/leetcode-problem/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/yashp3057/leetcode-problem/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -268,5 +271,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/yashp3057/leetcode-problem/tree/master/0493-reverse-pairs) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/yashp3057/leetcode-problem/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/yashp3057/leetcode-problem/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/yashp3057/leetcode-problem/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/yashp3057/leetcode-problem/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
