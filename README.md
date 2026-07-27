@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/yashp3057/leetcode-problem/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/yashp3057/leetcode-problem/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/yashp3057/leetcode-problem/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/yashp3057/leetcode-problem/tree/master/0229-majority-element-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/yashp3057/leetcode-problem/tree/master/0380-insert-delete-getrandom-o1) |
 | [0721-accounts-merge](https://github.com/yashp3057/leetcode-problem/tree/master/0721-accounts-merge) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/yashp3057/leetcode-problem/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/yashp3057/leetcode-problem/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/yashp3057/leetcode-problem/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/yashp3057/leetcode-problem/tree/master/0205-isomorphic-strings) |
 | [0721-accounts-merge](https://github.com/yashp3057/leetcode-problem/tree/master/0721-accounts-merge) |
 | [1021-remove-outermost-parentheses](https://github.com/yashp3057/leetcode-problem/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yashp3057/leetcode-problem/tree/master/1081-smallest-subsequence-of-distinct-characters) |
