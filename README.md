@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/yashp3057/leetcode-problem/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/yashp3057/leetcode-problem/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/yashp3057/leetcode-problem/tree/master/0380-insert-delete-getrandom-o1) |
+| [0451-sort-characters-by-frequency](https://github.com/yashp3057/leetcode-problem/tree/master/0451-sort-characters-by-frequency) |
 | [0721-accounts-merge](https://github.com/yashp3057/leetcode-problem/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/yashp3057/leetcode-problem/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [3312-sorted-gcd-pair-queries](https://github.com/yashp3057/leetcode-problem/tree/master/3312-sorted-gcd-pair-queries) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/yashp3057/leetcode-problem/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/yashp3057/leetcode-problem/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/yashp3057/leetcode-problem/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashp3057/leetcode-problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/yashp3057/leetcode-problem/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/yashp3057/leetcode-problem/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/yashp3057/leetcode-problem/tree/master/0274-h-index) |
+| [0451-sort-characters-by-frequency](https://github.com/yashp3057/leetcode-problem/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashp3057/leetcode-problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/yashp3057/leetcode-problem/tree/master/0721-accounts-merge) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashp3057/leetcode-problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/yashp3057/leetcode-problem/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/yashp3057/leetcode-problem/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/yashp3057/leetcode-problem/tree/master/0451-sort-characters-by-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/yashp3057/leetcode-problem/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
 |  |
@@ -242,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/yashp3057/leetcode-problem/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/yashp3057/leetcode-problem/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/yashp3057/leetcode-problem/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/yashp3057/leetcode-problem/tree/master/0451-sort-characters-by-frequency) |
 | [0721-accounts-merge](https://github.com/yashp3057/leetcode-problem/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/yashp3057/leetcode-problem/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/yashp3057/leetcode-problem/tree/master/1021-remove-outermost-parentheses) |
@@ -325,4 +330,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/yashp3057/leetcode-problem/tree/master/0796-rotate-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/yashp3057/leetcode-problem/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
