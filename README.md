@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/yashp3057/leetcode-problem/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/yashp3057/leetcode-problem/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yashp3057/leetcode-problem/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yashp3057/leetcode-problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/yashp3057/leetcode-problem/tree/master/1903-largest-odd-number-in-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/yashp3057/leetcode-problem/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/yashp3057/leetcode-problem/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/yashp3057/leetcode-problem/tree/master/0085-maximal-rectangle) |
 | [1021-remove-outermost-parentheses](https://github.com/yashp3057/leetcode-problem/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yashp3057/leetcode-problem/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yashp3057/leetcode-problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
