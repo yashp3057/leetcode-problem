@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashp3057/leetcode-problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/yashp3057/leetcode-problem/tree/master/1631-path-with-minimum-effort) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashp3057/leetcode-problem/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yashp3057/leetcode-problem/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/yashp3057/leetcode-problem/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/yashp3057/leetcode-problem/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/yashp3057/leetcode-problem/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/yashp3057/leetcode-problem/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/yashp3057/leetcode-problem/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/yashp3057/leetcode-problem/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yashp3057/leetcode-problem/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashp3057/leetcode-problem/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/yashp3057/leetcode-problem/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/yashp3057/leetcode-problem/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -396,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/yashp3057/leetcode-problem/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/yashp3057/leetcode-problem/tree/master/1406-stone-game-iii) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yashp3057/leetcode-problem/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
