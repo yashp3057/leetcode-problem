@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/yashp3057/leetcode-problem/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/yashp3057/leetcode-problem/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/yashp3057/leetcode-problem/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/yashp3057/leetcode-problem/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/yashp3057/leetcode-problem/tree/master/0380-insert-delete-getrandom-o1) |
 | [0451-sort-characters-by-frequency](https://github.com/yashp3057/leetcode-problem/tree/master/0451-sort-characters-by-frequency) |
 | [0721-accounts-merge](https://github.com/yashp3057/leetcode-problem/tree/master/0721-accounts-merge) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/yashp3057/leetcode-problem/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/yashp3057/leetcode-problem/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/yashp3057/leetcode-problem/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/yashp3057/leetcode-problem/tree/master/0290-word-pattern) |
 | [0451-sort-characters-by-frequency](https://github.com/yashp3057/leetcode-problem/tree/master/0451-sort-characters-by-frequency) |
 | [0721-accounts-merge](https://github.com/yashp3057/leetcode-problem/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/yashp3057/leetcode-problem/tree/master/0796-rotate-string) |
