@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/yashp3057/leetcode-problem/tree/master/0380-insert-delete-getrandom-o1) |
 | [0493-reverse-pairs](https://github.com/yashp3057/leetcode-problem/tree/master/0493-reverse-pairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashp3057/leetcode-problem/tree/master/0628-maximum-product-of-three-numbers) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/yashp3057/leetcode-problem/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0721-accounts-merge](https://github.com/yashp3057/leetcode-problem/tree/master/0721-accounts-merge) |
 | [0827-making-a-large-island](https://github.com/yashp3057/leetcode-problem/tree/master/0827-making-a-large-island) |
 | [0877-stone-game](https://github.com/yashp3057/leetcode-problem/tree/master/0877-stone-game) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashp3057/leetcode-problem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/yashp3057/leetcode-problem/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/yashp3057/leetcode-problem/tree/master/0213-house-robber-ii) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/yashp3057/leetcode-problem/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/yashp3057/leetcode-problem/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/yashp3057/leetcode-problem/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/yashp3057/leetcode-problem/tree/master/1140-stone-game-ii) |
@@ -370,11 +372,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/yashp3057/leetcode-problem/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/yashp3057/leetcode-problem/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/yashp3057/leetcode-problem/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/yashp3057/leetcode-problem/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/yashp3057/leetcode-problem/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Merge Sort
 |  |
 | ------- |
@@ -424,4 +428,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/yashp3057/leetcode-problem/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/yashp3057/leetcode-problem/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
