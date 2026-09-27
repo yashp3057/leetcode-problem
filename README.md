@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/yashp3057/leetcode-problem/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/yashp3057/leetcode-problem/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/yashp3057/leetcode-problem/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/yashp3057/leetcode-problem/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/yashp3057/leetcode-problem/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/yashp3057/leetcode-problem/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/yashp3057/leetcode-problem/tree/master/0242-valid-anagram) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yashp3057/leetcode-problem/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/yashp3057/leetcode-problem/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/yashp3057/leetcode-problem/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/yashp3057/leetcode-problem/tree/master/0202-happy-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/yashp3057/leetcode-problem/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yashp3057/leetcode-problem/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/yashp3057/leetcode-problem/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/yashp3057/leetcode-problem/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/yashp3057/leetcode-problem/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/yashp3057/leetcode-problem/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/yashp3057/leetcode-problem/tree/master/0380-insert-delete-getrandom-o1) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashp3057/leetcode-problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/yashp3057/leetcode-problem/tree/master/0877-stone-game) |
@@ -455,4 +458,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yashp3057/leetcode-problem/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/yashp3057/leetcode-problem/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
