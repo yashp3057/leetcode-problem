@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/yashp3057/leetcode-problem/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashp3057/leetcode-problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashp3057/leetcode-problem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/yashp3057/leetcode-problem/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/yashp3057/leetcode-problem/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/yashp3057/leetcode-problem/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/yashp3057/leetcode-problem/tree/master/0169-majority-element) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/yashp3057/leetcode-problem/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/yashp3057/leetcode-problem/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/yashp3057/leetcode-problem/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/yashp3057/leetcode-problem/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/yashp3057/leetcode-problem/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/yashp3057/leetcode-problem/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/yashp3057/leetcode-problem/tree/master/0205-isomorphic-strings) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/yashp3057/leetcode-problem/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/yashp3057/leetcode-problem/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/yashp3057/leetcode-problem/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/yashp3057/leetcode-problem/tree/master/0721-accounts-merge) |
