@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yashp3057/leetcode-problem/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/yashp3057/leetcode-problem/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/yashp3057/leetcode-problem/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3364-minimum-positive-sum-subarray](https://github.com/yashp3057/leetcode-problem/tree/master/3364-minimum-positive-sum-subarray) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/yashp3057/leetcode-problem/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/yashp3057/leetcode-problem/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/yashp3057/leetcode-problem/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/yashp3057/leetcode-problem/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/yashp3057/leetcode-problem/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/yashp3057/leetcode-problem/tree/master/3312-sorted-gcd-pair-queries) |
+| [3364-minimum-positive-sum-subarray](https://github.com/yashp3057/leetcode-problem/tree/master/3364-minimum-positive-sum-subarray) |
 ## Combinatorics
 |  |
 | ------- |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/yashp3057/leetcode-problem/tree/master/0219-contains-duplicate-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yashp3057/leetcode-problem/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3364-minimum-positive-sum-subarray](https://github.com/yashp3057/leetcode-problem/tree/master/3364-minimum-positive-sum-subarray) |
 ## Tree
 |  |
 | ------- |
