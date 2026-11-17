@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/yashp3057/leetcode-problem/tree/master/0202-happy-number) |
 | [0455-assign-cookies](https://github.com/yashp3057/leetcode-problem/tree/master/0455-assign-cookies) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/yashp3057/leetcode-problem/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/yashp3057/leetcode-problem/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/yashp3057/leetcode-problem/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yashp3057/leetcode-problem/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/yashp3057/leetcode-problem/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/yashp3057/leetcode-problem/tree/master/1563-stone-game-v) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/yashp3057/leetcode-problem/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/yashp3057/leetcode-problem/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/yashp3057/leetcode-problem/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3524-find-x-value-of-array-i](https://github.com/yashp3057/leetcode-problem/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/yashp3057/leetcode-problem/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/yashp3057/leetcode-problem/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/yashp3057/leetcode-problem/tree/master/1903-largest-odd-number-in-string) |
 | [2409-count-days-spent-together](https://github.com/yashp3057/leetcode-problem/tree/master/2409-count-days-spent-together) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/yashp3057/leetcode-problem/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yashp3057/leetcode-problem/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashp3057/leetcode-problem/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/yashp3057/leetcode-problem/tree/master/3499-maximize-active-section-with-trade-i) |
