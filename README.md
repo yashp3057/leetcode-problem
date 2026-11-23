@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/yashp3057/leetcode-problem/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/yashp3057/leetcode-problem/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/yashp3057/leetcode-problem/tree/master/1260-shift-2d-grid) |
+| [1352-product-of-the-last-k-numbers](https://github.com/yashp3057/leetcode-problem/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/yashp3057/leetcode-problem/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1406-stone-game-iii](https://github.com/yashp3057/leetcode-problem/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashp3057/leetcode-problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/yashp3057/leetcode-problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/yashp3057/leetcode-problem/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/yashp3057/leetcode-problem/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/yashp3057/leetcode-problem/tree/master/1352-product-of-the-last-k-numbers) |
 | [1406-stone-game-iii](https://github.com/yashp3057/leetcode-problem/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/yashp3057/leetcode-problem/tree/master/1563-stone-game-v) |
 | [1903-largest-odd-number-in-string](https://github.com/yashp3057/leetcode-problem/tree/master/1903-largest-odd-number-in-string) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/yashp3057/leetcode-problem/tree/master/0380-insert-delete-getrandom-o1) |
+| [1352-product-of-the-last-k-numbers](https://github.com/yashp3057/leetcode-problem/tree/master/1352-product-of-the-last-k-numbers) |
 ## Randomized
 |  |
 | ------- |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/yashp3057/leetcode-problem/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/yashp3057/leetcode-problem/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/yashp3057/leetcode-problem/tree/master/1352-product-of-the-last-k-numbers) |
 | [3312-sorted-gcd-pair-queries](https://github.com/yashp3057/leetcode-problem/tree/master/3312-sorted-gcd-pair-queries) |
 | [3364-minimum-positive-sum-subarray](https://github.com/yashp3057/leetcode-problem/tree/master/3364-minimum-positive-sum-subarray) |
 ## Combinatorics
@@ -531,4 +535,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/yashp3057/leetcode-problem/tree/master/0455-assign-cookies) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/yashp3057/leetcode-problem/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
